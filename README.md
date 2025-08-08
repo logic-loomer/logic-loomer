@@ -12,7 +12,7 @@
 <!-- Quick Intro -->
 💡 **About Me**  
 I’m a **Senior Software Engineer** specialising in backend development, DevOps, and scalable fintech systems.  
-Currently building a **high-resilience financial services platform** at **VIDA.AI**.
+Currently building a **high-resilience services platform** at **VIDA.AI**.
 
 ---
 

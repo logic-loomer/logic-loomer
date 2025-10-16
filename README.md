@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2f80ed;">Awon Thapaliya</span></h1>
 <h3 align="center">Senior Software Engineer | Backend & Platform Infrastructure Specialist</h3>
 <p align="center">
-  <strong>Orange, NSW 🇦🇺 | 8+ years experience | Fintech · Cloud · API Development</strong>
+  <strong>Orange, NSW 🇦🇺 | 9+ years experience | Fintech · Cloud · API Development</strong>
 </p>
 
 ---
